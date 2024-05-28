@@ -5,12 +5,11 @@
 #include <Servo.h>
 
 // Function declarations
-
 class MovementFunctions
 {
     public:
-        void MoveInTime(Servo mover, int duration, int initialPosition, int finalPosition);
-        void InstructionRecieved(Servo serv);
+        void MoveInTime(Servo& mover, int duration, int initialPosition, int finalPosition);
+        void InstructionReceived(Servo& serv);
 };
 
 #endif // MOVEMENTFUNCTIONS_H
