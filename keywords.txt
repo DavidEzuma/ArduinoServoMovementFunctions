@@ -1,0 +1,13 @@
+#######################################
+# Syntax Coloring Map MovementFunctions
+#######################################
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+InstructionRecieved	KEYWORD2
+MoveInTime	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
